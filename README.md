@@ -29,3 +29,7 @@ log_message('info'   , 'Info    Message.');
 log_message('error'  , 'Error   Message.');
 log_message('debug'  , 'Debug   Message.');
 ```
+
+## License
+
+The content of this project itself is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
