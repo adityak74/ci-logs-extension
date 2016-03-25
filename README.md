@@ -23,9 +23,9 @@ Usage
 -------
 
 ```php
-log_message('success', 'Success message.');
-log_message('warn', 'Warning Message.');
-log_message('info', 'Informational Message.');
-log_message('error', 'Error Message.');
-log_message('debug', 'Debug Message.');
+log_message('success', 'Success Message.');
+log_message('warn'   , 'Warning Message.');
+log_message('info'   , 'Info    Message.');
+log_message('error'  , 'Error   Message.');
+log_message('debug'  , 'Debug   Message.');
 ```
